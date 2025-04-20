@@ -71,7 +71,7 @@ To reflect engagement and behavior:
 - `credit_card_segmentation_data.csv` – Raw dataset
 - `credit_card_segmented_data.csv` – Clustered users
 - `credit_card_segment_summary.csv` – Segment stats
-- `cc_tarun_style_pairplot_updated_colors.png` – Pairplot
+- `cc_pairplot.png` – Pairplot
 - `cc_income_spend_clusters.png` – Spend vs Income clusters
 - `credit_card_segmentation.py` – Full Python workflow
 
