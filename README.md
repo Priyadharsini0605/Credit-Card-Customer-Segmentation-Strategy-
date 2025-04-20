@@ -43,7 +43,7 @@ To reflect engagement and behavior:
 ---
 
 ## 📸 Visual Highlights
-- `cc_tarun_style_pairplot_updated_colors.png`: Cluster pairplot (Tarun-style)
+- `cc_pairplot_updated_colors.png`: Cluster pairplot
 - `cc_income_spend_clusters.png`: Income vs Spend scatterplot
 
 ---
